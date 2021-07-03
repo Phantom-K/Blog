@@ -1,0 +1,26 @@
+@font-face{
+  font-family: robot;  
+  scr: url(../Roboto/Roboto-Bold.ttf);
+}
+
+
+/*font-family :abel*/
+
+@font-face{
+    font-family: abel;
+    scr: url( ../Abel/Abel-Regular.ttf);
+}
+/*font-family: robot2*/
+
+@font-face{
+    font-family: robot2;
+    scr: url( ../Roboto/Roboto-Thin.ttf);
+}
+/*font-family*/
+
+@font-face{
+    font-family: robot3;
+    scr: url( ../Roboto/Roboto-Light.ttf);
+}
+
+
